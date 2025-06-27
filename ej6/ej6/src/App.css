@@ -1,0 +1,52 @@
+.contenedor {
+  max-width: 400px;
+  margin: 40px auto;
+  text-align: center;
+  font-family: Arial;
+}
+
+input {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 8px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.mensaje {
+  margin-top: 20px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.amarillo {
+  background-color: #fff3b0;
+  color: #8b7000;
+}
+
+.verde {
+  background-color: #c7f5d9;
+  color: #1e7e34;
+}
+
+.naranja {
+  background-color: #ffe5b4;
+  color: #a65e00;
+}
+
+.rojo {
+  background-color: #ffb3b3;
+  color: #a30000;
+}
+
+.gris {
+  background-color: #e0e0e0;
+  color: #333;
+}
